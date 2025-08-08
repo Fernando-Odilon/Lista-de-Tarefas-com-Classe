@@ -2,6 +2,7 @@ from funcoes import Tarefa
 tarefa = Tarefa()
 escolha = None
 tarefa.trasncrever_lista()
+
 while True:
 
     tarefa.atualizar_lista()
